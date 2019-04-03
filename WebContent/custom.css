@@ -1,0 +1,87 @@
+.firstrow{
+	color: white;
+	background-color: grey;
+}
+
+.firstrow a{
+	color: white;
+	text-decoration: none;
+	text-indent: 1em;
+}
+
+.mar{   
+	font-size:9pt;
+	margin-top:10px;
+	font-weight: bold;
+}
+#image{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.nav a
+{
+	color: grey;
+}
+
+.thirdrow{
+	color:grey;
+	background-image: url("logos/texture-bw.png");
+}
+.thirdrow a{
+	color:grey;
+	text-decoration: none; 
+}
+
+.x
+{
+	margin-top: 30px;
+}
+
+.maintext{
+	color:black;
+	margin-top:22px;
+	margin-bottom:22px;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.fourthmaintext
+{
+	color:black;
+	margin-bottom:22px;
+	font-size: 30px;
+	font-weight: bold;
+	padding-left:0px;
+	margin-top: 40px;
+}
+.fourthmaintext2{
+	color:black;
+	font-size: 25px;
+	font-weight: bold;
+}
+.fourthinfotext{
+	font-size:22px;
+	font-weight: lighter;
+}
+.fourthrow{
+	margin-left:20px;
+}
+.fourthrowsideinfotext{
+	margin-top:0px;
+}
+.row6 {
+	background-color: #505050;
+	color: white;
+	color: white
+}
+
+.col2 h6 {
+	display: inline
+}
+
+.row6 img {
+	height: 50px;
+	width: 50px;
+	margin-left: 10px;
+}
